@@ -20,4 +20,4 @@
 /config/application.yml
 
 # Ignore Welcome Controller file
-/controllers/welcome_controller.rb
+/app/controllers/welcome_controller.rb
